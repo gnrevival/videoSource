@@ -13,7 +13,7 @@
 
 ### 网络导入
 1. 【设置】-【网络导入影视源】
-2. 输入下面网址
+2. 输入下面网址<br>
 https://raw.githubusercontent.com/gnrevival/videoSource/main/adult.json
 
 
