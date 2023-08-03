@@ -1,10 +1,11 @@
+### adult.json是针对OnePlayer做的成人影视资源
 
-# adult.json
-针对OnePlayer的成人资源。
+### OnePlayer下载地址
+http://waicao.me/made/3234/
 
 
 
-# 使用方法
+# Adult.json使用方法
 ### 本地导入
 1. 下载adult.json
 2. 【设置】-【本地导入影视源】-【选择下载好的adult.json】
@@ -13,12 +14,12 @@
 
 ### 网络导入
 1. 【设置】-【网络导入影视源】
-2. 输入下面网址<br>
+2. 输入下面网址
 https://raw.githubusercontent.com/gnrevival/videoSource/main/adult.json
 
 
 
-# 影视资源介绍
+# adult资源介绍
 1. 美少女资源
 2. 香奶儿资源
 3. kk资源站
