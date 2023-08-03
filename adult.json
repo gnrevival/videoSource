@@ -13,10 +13,6 @@
         "name":"博天堂",
         "api":"http://bttcj.com/inc/sapi.php"
     },{
-        "name":"色窝资源",
-        "api":"https://sewozyapi.com/api.php/provide/vod/at/xmlsea/",
-        "skip":"视频一区,视频二区,视频三区"
-    },{
         "name":"老鸭资源",
         "api":"https://api.apilyzy.com/api.php/provide/vod/at/xmlsea/"
     },{
